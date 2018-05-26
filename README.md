@@ -21,4 +21,4 @@ To start at a specific module, change the `startMain.py` and run the `init()` fu
 The default pin is '1234', which can be changed while running using `#` or in the program at the beginning.
 The default passkey to change a module is '62018', which was only used for demonstration purpose, as in reality, a user will only choose one module.
 
-For the Voice+Finger Recognition module, it is assumed that the snowboy hotword detection is cloned into home directory.
+For the Voice+Finger Recognition module, it is assumed that the snowboy hotword detection is cloned into home directory, i.e. `/home/pi/`.
