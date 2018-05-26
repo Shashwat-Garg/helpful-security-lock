@@ -13,6 +13,7 @@ It is made for Raspberry pi (tested on Pi 3).
 5. speechpy ( http://github.com/astorfi/speechpy )
 6. pydtw ( http://github.com/shunsukeaihara/pydtw )
 7. pyfingerprint ( http://github.com/bastianraschke/pyfingerprint )
+8. snowboy hotword detection
 
 # Details of Running the Codes:
 
