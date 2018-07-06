@@ -1,5 +1,21 @@
 # helpful-security-lock
-The Helpful Security lock was made for college project in my 2nd Year of B.Tech.
+The Helping Security Lock is about enabling physically impaired people to easily enter their
+home while providing a reliable and secure locking mechanism. The product could also be
+used by not disabled people, who value security and are tired of carrying keys around with
+them. 
+We want to make the life of disabled people easier by supporting them in one of the
+most trivial task in daily life. Our product is thought to be primarily for disabled people,
+however it can also be used by not disabled people. We plan to make it modular, meaning
+that you can choose the sensor modules which you want to have in your locking mechanism,
+for example, for blind people a barcode reader is difficult to operate, as they have to position
+the barcode precisely in front of the reader. Therefore they could order the product without the
+barcode reader, thus making it cheaper. We estimate a cost of 7000 Rupees for the product
+with all the sensor modules (Voice recognition, Face recognition, pincode,
+fingerprint sensor,
+barcode reader). The product could also be used for Labs at university, where only faculty
+members should have access to the Lab. It would save the university money for making the
+keys and especially it would prevent the university from having to change the lock if one of the
+members looses his key.
 
 # Operating System:
 It is made for Raspberry pi (tested on Pi 3).
